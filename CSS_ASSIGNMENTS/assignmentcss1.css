@@ -1,0 +1,8 @@
+h1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3RyCfQrfi-juBn4CuvT8EvPGTkqVNGNXZkGS1kFHD6GSmQx_ixZPFSThZLgYrRccQZDk&usqp=CAU);
+    background-size: contain;
+    font-size: 20rem;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+

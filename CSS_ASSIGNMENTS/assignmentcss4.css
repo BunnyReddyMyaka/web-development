@@ -1,0 +1,9 @@
+input[type]{
+    border:none;
+}
+input[placeholder~="your"]::placeholder{
+    color:red;
+}
+input[type="password"]::placeholder{
+    text-align:center;
+}

@@ -1,0 +1,24 @@
+table{
+    border-radius: 10px;
+    width:50%;
+}
+table tr:first-child{
+    background-color:rgb(88, 88, 196);
+    color:white;
+}
+table, th, td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+table tr:nth-child(even){
+    background-color: #add7d7;
+}
+table tr:nth-child(even):hover{
+    background-color: #63a8a8;
+} 
+table td:nth-child(even){
+    background-color:  #add7d7;
+}
+table td:nth-child(odd):hover{
+    background-color: #63a8a8;
+}
